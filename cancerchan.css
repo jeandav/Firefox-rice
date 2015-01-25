@@ -1,8 +1,8 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
-// DISCLAIMER: This is literally Twily's css, I just changed the colors to fit my theme
-// http://twily.info/
-
+/* DISCLAIMER: This is literally Twily's css, I just changed the colors to fit my theme
+ http://twily.info/
+*/
 @-moz-document domain("4chan.org") {
     * {
         font-family: "Droid Sans", "Source Sans Pro" !important;
