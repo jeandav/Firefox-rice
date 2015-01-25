@@ -5,8 +5,14 @@ Some of them were highly inspired
 
 Feel free to take advantage of it
 
-![Alt text](https://raw.githubusercontent.com/Cancerbro/Firefox-rice/master/screenshots/Capture%20d%27%C3%A9cran%202015-01-25%20%C3%A0%2015.16.27.png "Optional title")
+![Alt text](https://raw.githubusercontent.com/Cancerbro/Firefox-rice/master/screenshots/screenshot1 "Optional title")
 
-![Alt text](https://raw.githubusercontent.com/Cancerbro/Firefox-rice/master/screenshots/Capture%20d%27%C3%A9cran%202015-01-25%20%C3%A0%2015.17.05.png "Optional title")
+![Alt text](https://raw.githubusercontent.com/Cancerbro/Firefox-rice/master/screenshots/screenshot2 "Optional title")
 
-![Alt text](https://raw.githubusercontent.com/Cancerbro/Firefox-rice/master/screenshots/Capture%20d%27%C3%A9cran%202015-01-25%20%C3%A0%2015.17.01.png "Optional title")
+![Alt text](https://raw.githubusercontent.com/Cancerbro/Firefox-rice/master/screenshots/screenshot5 "Optional title")
+
+![Alt text](https://raw.githubusercontent.com/Cancerbro/Firefox-rice/master/screenshots/screenshot6 "Optional title")
+
+
+My mac basic work environment:
+![Alt text](https://raw.githubusercontent.com/Cancerbro/Firefox-rice/master/screenshots/screenshot7 "Optional title")
