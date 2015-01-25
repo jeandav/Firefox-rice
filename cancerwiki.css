@@ -1,0 +1,77 @@
+@-moz-document domain('wikipedia.org'){
+
+body {
+  background-color: #282828 !important;
+  color: #FFF !important;
+}
+a {
+    color: #E4979D !important;
+}
+  #mw-page-base {
+    background-image: linear-gradient(#282828 50%, #282828 100%);
+
+  }
+.mw-body {
+    margin-left: 10em;
+    padding: 1em;
+    border-width: 1px 0px 1px 1px;
+    border-style: solid;
+    border-color: #A7D7F9;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    margin-top: -1px;
+    background-color: #282828;
+    color: #F9F9F9;
+    direction: ltr;
+}
+h1 {
+  color: #E4979D !important;
+}
+#p-namespaces, #p-views {
+  display: none;
+}
+.homonymie {
+    padding-left: 2em;
+    padding-bottom: 0.5em;
+    margin-bottom: 0.5em;
+    margin-top: -0.6em;
+    background: none repeat scroll 0% 0% #282828;
+    font-style: italic;
+    border-bottom: 1px solid #AAA;
+}
+.infobox_v2 {
+    border: 1px solid #AAA;
+    border-spacing: 3px;
+    background-color: #303030;
+    color: white;
+    margin: 0.5em 0px 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    text-align: left;
+    font-size: 88%;
+    line-height: 1.5em;
+}
+.infobox {
+    border: 1px solid #AAA;
+    border-spacing: 3px;
+    background-color: #303030;
+    color: white;
+    margin: 0.5em 0px 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    text-align: left;
+    font-size: 88%;
+    line-height: 1.5em;
+}
+#toc, .toc, .mw-warning {
+    border: 1px solid #AAA;
+    background-color: #303030;
+    padding: 5px;
+    font-size: 95%;
+}
+}
